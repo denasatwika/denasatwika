@@ -8,6 +8,3 @@ I’m a cybersecurity and backend enthusiast, currently exploring how to build W
 ![Blockchain](https://img.shields.io/badge/Blockchain%20Technology-orange?style=flat&logo=blockchain&logoColor=white)
 ![NFT](https://img.shields.io/badge/NFT-Minting,%20Buying%20&%20Selling%20Logic-blueviolet?style=flat&logo=ethereum&logoColor=white)
 
-## 📌 Previous Projects
-- Reported real-world vulnerabilities through responsible disclosure
-- Developed backend systems as part of academic projects
