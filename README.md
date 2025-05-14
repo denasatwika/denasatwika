@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m a cybersecurity and backend enthusiast, currently exploring how to build Web3 systems.
+I’m a cybersecurity and fullstack enthusiast, currently exploring how to build Web3 systems.
 
 ## 📚 Currently Learning
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
