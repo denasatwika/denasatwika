@@ -32,7 +32,7 @@ I'm currently actively exploring cybersecurity, dApps, and back-end services.
 </a>
 </p>
 
-### Let's Connect
+### Reach me at
 - <a href="https://linkedin.com/in/denasatwika/">LinkedIn</a>
 - denasatwikaa@gmail.com
 - <a href="https://google.com">denas.dev</a>
